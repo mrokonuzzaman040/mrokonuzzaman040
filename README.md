@@ -23,10 +23,9 @@ I'm a frontend aficionado specializing in React, driven to craft vibrant, fluid 
 <h3 align="center">Connect with me:</h3> <br/>
 <p  align="center">
 <a href="https://www.linkedin.com/in/rokonuzzaman040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@nadia-ns11" height="30" width="40" /></a>
-  
 <a href="https://www.upwork.com/freelancers/~0109501d92846b8673" target="blank"><img align="center" src="https://raw.githubusercontent.com/mrokonuzzaman040/mrokonuzzaman040/main/upwork-1.svg" alt="@nadia-ns11" height="30" width="40" /></a>
-
-<a href="https://www.facebook.com/rokonuzzaman040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@nadia.ns11" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rokonuzzaman040/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="@nadia.ns11" height="30" width="40" /></a>
+</p>
 <br/>
 
 <h3 align="center">Languages and Tools:</h3> <br/>
