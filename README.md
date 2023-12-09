@@ -17,7 +17,7 @@ I'm a frontend aficionado specializing in React, driven to craft vibrant, fluid 
 
 <br />
 <p align="center">
-<a href="https://git.io/streak-stats"><img  width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mrokonuzzaman040&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://github.com/mrokonuzzaman040"><img  width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mrokonuzzaman040&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <h3 align="center">Connect with me:</h3> <br/>
@@ -31,7 +31,7 @@ I'm a frontend aficionado specializing in React, driven to craft vibrant, fluid 
 <h3 align="center">Languages and Tools:</h3> <br/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/mrokonuzzaman040">
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,nextjs,mysql,mongodb,firebase,express,react,python,vite" />
   </a>
 </p>
