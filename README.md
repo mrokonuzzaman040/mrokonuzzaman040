@@ -30,7 +30,7 @@ I'm a frontend aficionado specializing in React, driven to craft vibrant, fluid 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,nextjs,mysql,mongodb,firebase,express" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,nextjs,mysql,mongodb,firebase,express,react,python,vite" />
   </a>
 </p>
 <br/>
