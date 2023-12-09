@@ -49,11 +49,11 @@ I'm a frontend aficionado specializing in React, driven to craft vibrant, fluid 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrokonuzzaman040&theme=dark" width="400"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrokonuzzaman040&theme=dark" width="400"/>
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrokonuzzaman040&theme=dark" width="900"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrokonuzzaman040&theme=dark" width="400"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrokonuzzaman040&theme=dark&utcOffset=8" width="400"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrokonuzzaman040&theme=dark" width="900"/>
+
 </div>
 
 
