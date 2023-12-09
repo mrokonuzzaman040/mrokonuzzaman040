@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/mrokonuzzaman040/mrokonuzzaman040/main/banner_2.png" alt="cover" />
+<img width="100%" height = "500px" src="https://raw.githubusercontent.com/mrokonuzzaman040/mrokonuzzaman040/main/banner_2.png" alt="cover" />
 </div>
 
 # Hello, It's Md Rokon Uzzaman! 👋
