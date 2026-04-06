@@ -2,7 +2,7 @@
 <img width="100%" height = "500px" src="https://raw.githubusercontent.com/mrokonuzzaman040/mrokonuzzaman040/main/banner_2.png" alt="cover" />
 </div>
 
-# Hello, It's Md Rokon Uzzaman! 👋
+# Hello world, It's Md Rokon Uzzaman! 👋
 
 I'm a frontend aficionado specializing in React, driven to craft vibrant, fluid web journeys. Always in flux, I thrive on perpetual growth and pioneering ideas in the dynamic realm of web design and development.
 
